@@ -1,0 +1,9 @@
+{
+  "identifier": "erkle64.ZoomButton",
+  "displayName": "ZoomButton",
+  "assetBundles": [ ],
+  "assemblies": [
+    "ZoomButton.dll"
+  ]
+}
+
